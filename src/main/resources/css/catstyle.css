@@ -1,0 +1,36 @@
+.exit-button {
+    -fx-background-radius: 50%;
+    -fx-background-color: #869F77;
+    -fx-border-radius: 50%;
+    -fx-border-color: #588061;
+    -fx-border-width: 1px;
+    -fx-min-width: 80px;
+    -fx-min-height: 80px;
+}
+.playbutton {
+    -fx-background-radius: 50%;
+    -fx-background-color: #869F77;
+    -fx-border-width: 0px;
+    -fx-min-width: 100px;
+    -fx-min-height: 60px;
+}
+
+.biggerbuttons {
+    -fx-background-radius: 50%;
+    -fx-background-color: #F58092;
+    -fx-border-radius: 50%;
+    -fx-border-color: #A94064;
+    -fx-border-width: 1px;
+    -fx-min-width: 80px;
+    -fx-min-height: 80px;
+}
+
+.smallerbuttons{
+    -fx-background-radius: 50%;
+        -fx-background-color: #F58092;
+        -fx-border-radius: 50%;
+        -fx-border-color: #A94064;
+        -fx-border-width: 0px;
+        -fx-min-width: 50px;
+        -fx-min-height: 50px;
+}
